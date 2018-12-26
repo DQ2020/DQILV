@@ -3,7 +3,8 @@ package com.sft.broker.dqui;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 
-import com.open.dqilv.ImpressionsLabelView;
+import com.open.ilv.ImpressionsLabelView;
+
 
 public class MainActivity extends AppCompatActivity {
 
